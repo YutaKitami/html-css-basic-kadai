@@ -15,7 +15,7 @@ html{
 }
 
 h1{
-    font-family: sans-serif, Josefin Sans;
+    font-family: Josefin Sans, sans-serifs;
 }
 
 h1{
@@ -38,6 +38,6 @@ body{
     text-align: center;
 }
 
-#basic{
+#basic > p{
     font-weight: bold;
 }
